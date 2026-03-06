@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jefri Calderin
 
-<!--
-**JefriCalderin/JefriCalderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Electronics Repair Technician | 💻 Learning Programming
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I enjoy repairing electronics and learning new technologies. I like solving problems, understanding how things work, and building useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **a personal project**
+- 🌱 I’m currently learning **software programming**
+- 👯 I’m looking to collaborate on **programming projects**
+- 🤔 I’m looking for help on **learning programming in an easier way**
+- 💬 Ask me about **electronic repair**
+- 😄 People close to me usually call me **Jemco**
+- ⚡ Fun fact: **I usually repair almost anything**
+
+---
+
+## 🛠️ Skills & Interests
+
+- 🔧 Electronic repair
+- 💻 Programming (learning)
+- 🧰 Hardware troubleshooting
+- 🧠 Problem solving
+
+
+---
+
+⭐ *Always learning, always fixing things.*
